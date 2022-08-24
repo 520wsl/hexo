@@ -1,0 +1,45 @@
+---
+title: 发起集中授权任务及捞任务操作步骤
+date: 2022-07-26 15:09:00
+categories:
+- 总结
+
+tags:
+- work
+- vuejs
+- fox
+---
+
+# 20220816 培训笔记
+
+- jdk 安装
+
+- jdk环境变量配制
+
+- maven环境配制
+
+- IDEA配制maven环境
+
+- 数据可视化工具安装破解
+
+- 来项目代码
+
+- 修改setting文件
+
+- 启动项目
+
+  
+
+# 20220817 培训笔记
+
+
+
+- 项目启动
+- 项目目录
+- Postman介绍
+- Postman访问接口
+- 从接口到实体类关系
+- controller、service、impl、mapper、mapper xml
+- 实现 object 数据返回
+- 实现 array 数据返回
+- 作业 实现静态数据返回 [{a:1,b:2}]
