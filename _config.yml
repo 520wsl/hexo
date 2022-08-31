@@ -104,6 +104,9 @@ theme: themesparticlex
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: git
-  repository: https://github.com/520wsl/520wsl.github.io.git
+- type: git
+  repo: https://github.com/520wsl/520wsl.github.io.git
   branch: main
+- type: git
+  repo: https://e.coding.net/maddragon/maddragon/MadDragon.git
+  branch: master
